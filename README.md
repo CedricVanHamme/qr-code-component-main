@@ -1,2 +1,4 @@
 # qr-code-component-main
-My first repository, FrontEndMentor challenge
+My first repository, FrontEndMentor challenge.
+
+Trial edit to readme file.
